@@ -1,0 +1,14 @@
+This app requires permission to write to the device's file system in order to save files converted on the request of the user.
+We do not collect, transmit, or store any personal data from the user or the device.
+All files created or saved remain on the user's device and are only accessible to the user.
+This permission is used solely for the core functionality of the app — allowing users to convert and save files to a folder they choose.
+
+Email Sharing
+This app may offer the ability to send converted files via email by opening your preferred email application.
+This feature is completely user-initiated, and no email is sent automatically by the app.
+The app does not access, collect, or store any email content, addresses, or attachments.
+All data remains local on your device, and sending the file is entirely under your control through the selected email app.
+Only files created or converted by the user within the app are ever offered as email attachments. No other files or personal data are accessed or shared.
+
+We do not share any information with third parties.
+If you have any questions, contact us at cycling.converters@gmail.com
